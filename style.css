@@ -19,6 +19,14 @@ nav{
     text-align: right;
 }
 
+.aboutName {
+    background: linear-gradient(-80deg, #fe5000 29.9%, rgb(245, 245, 245) 30%);
+}
+
+.offerAbout {
+    background: rgb(245, 245, 245);
+}
+
 nav ul{
     display: inline-block;
     list-style: none;
